@@ -1,0 +1,14 @@
+nav{
+background-color: #53A0E8;
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+}
+
+.text-white{
+    color: white;
+}
+
+.text-bold{
+    font-weight: bold;
+}
